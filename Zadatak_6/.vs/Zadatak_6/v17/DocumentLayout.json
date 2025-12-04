@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAMER\\Desktop\\DUMP\\Zadatak_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC287141-EC17-455D-AC65-B17A1BAF7527}|Zadatak_6.vcxproj|C:\\Users\\GAMER\\Desktop\\DUMP\\Zadatak_6\\Zadatak_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC287141-EC17-455D-AC65-B17A1BAF7527}|Zadatak_6.vcxproj|solutionrelative:Zadatak_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadatak_6.cpp",
+              "DocumentMoniker": "C:\\Users\\GAMER\\Desktop\\DUMP\\Zadatak_6\\Zadatak_6.cpp",
+              "RelativeDocumentMoniker": "Zadatak_6.cpp",
+              "ToolTip": "C:\\Users\\GAMER\\Desktop\\DUMP\\Zadatak_6\\Zadatak_6.cpp",
+              "RelativeToolTip": "Zadatak_6.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-03T17:37:15.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
