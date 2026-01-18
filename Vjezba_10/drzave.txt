@@ -1,0 +1,3 @@
+Honduras, honduras.txt
+Jamajka, jamajka.txt
+Slovenija, slovenija.txt
