@@ -1,0 +1,3 @@
+﻿  Vjezba_9.c
+C:\Users\GAMER\Desktop\DUMP\Vjezba_9\Vjezba_9.c(22,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Vjezba_9.vcxproj -> C:\Users\GAMER\Desktop\DUMP\Vjezba_9\x64\Debug\Vjezba_9.exe
